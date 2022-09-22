@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="https://www.bobo.tj/">
     <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=1">
-    <title>green-card.tj - Счастливое будущее в Америке! </title>
+    <title>greencard.tj - Счастливое будущее в Америке! </title>
     <link rel="shortcut icon" href="sources/favicon.png">
   <style>
 	.widget ul#menu-footer-quick-links li a:before {
@@ -98,7 +98,7 @@
                                     </div><!-- site-branding end -->
                                     <!-- widget-info -->
                                     <div class="widget_info mr-auto">
-                                        <div>Счастливое будущее в Америке!</div>
+                                        <div>Счастливое будущее в жопе Аваза!</div>
                                     </div>
                                     <div class="d-flex flex-row">
                                         <div class="btn-show-menu-mobile menubar menubar--squeeze">
